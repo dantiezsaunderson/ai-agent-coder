@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+*.log
+.DS_Store
+target_service_info.json
+telegram_bot_info.json
